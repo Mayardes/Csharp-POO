@@ -1,7 +1,6 @@
 C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\8-InferenceTypes\bin\Debug\8-InferenceTypes.exe.config
 C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\8-InferenceTypes\bin\Debug\8-InferenceTypes.exe
 C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\8-InferenceTypes\bin\Debug\8-InferenceTypes.pdb
-C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\8-InferenceTypes\obj\Debug\8-InferenceTypes.csproj.AssemblyReference.cache
 C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\8-InferenceTypes\obj\Debug\8-InferenceTypes.csproj.CoreCompileInputs.cache
 C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\8-InferenceTypes\obj\Debug\8-InferenceTypes.exe
 C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\8-InferenceTypes\obj\Debug\8-InferenceTypes.pdb

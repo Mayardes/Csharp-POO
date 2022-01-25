@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-StructAndClass", "2-Struc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-Constructors", "3-Constructors\3-Constructors.csproj", "{2496C734-14FE-4CA9-923C-B859AD8425B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-Encapsulation", "4-Properties\4-Encapsulation.csproj", "{80BBC71F-01C2-4DE1-B5C5-E5005B438DFA}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-Properties", "5-Properties\5-Properties.csproj", "{887D32C8-3628-4CF8-98A0-44CF0965B1B8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-AutomaticProperties", "6-AutomaticProperties\6-AutomaticProperties.csproj", "{5D71E877-695B-49D5-BBCF-B2FE69438C2B}"
@@ -37,10 +35,6 @@ Global
 		{2496C734-14FE-4CA9-923C-B859AD8425B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2496C734-14FE-4CA9-923C-B859AD8425B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2496C734-14FE-4CA9-923C-B859AD8425B1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{80BBC71F-01C2-4DE1-B5C5-E5005B438DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{80BBC71F-01C2-4DE1-B5C5-E5005B438DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{80BBC71F-01C2-4DE1-B5C5-E5005B438DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{80BBC71F-01C2-4DE1-B5C5-E5005B438DFA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{887D32C8-3628-4CF8-98A0-44CF0965B1B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{887D32C8-3628-4CF8-98A0-44CF0965B1B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{887D32C8-3628-4CF8-98A0-44CF0965B1B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
