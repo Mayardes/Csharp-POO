@@ -1,0 +1,6 @@
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\5-Properties\bin\Debug\5-Properties.exe.config
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\5-Properties\bin\Debug\5-Properties.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\5-Properties\bin\Debug\5-Properties.pdb
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\5-Properties\obj\Debug\5-Properties.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\5-Properties\obj\Debug\5-Properties.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\5-Properties\obj\Debug\5-Properties.pdb

@@ -1,0 +1,7 @@
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\1-ValueRef\bin\Debug\1-ValueRef.exe.config
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\1-ValueRef\bin\Debug\1-ValueRef.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\1-ValueRef\bin\Debug\1-ValueRef.pdb
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\1-ValueRef\obj\Debug\1-ValueRef.csproj.AssemblyReference.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\1-ValueRef\obj\Debug\1-ValueRef.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\1-ValueRef\obj\Debug\1-ValueRef.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\1-ValueRef\obj\Debug\1-ValueRef.pdb

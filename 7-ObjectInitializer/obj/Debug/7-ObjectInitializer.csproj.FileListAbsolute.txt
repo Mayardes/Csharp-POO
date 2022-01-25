@@ -1,0 +1,6 @@
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\7-ObjectInitializer\bin\Debug\7-ObjectInitializer.exe.config
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\7-ObjectInitializer\bin\Debug\7-ObjectInitializer.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\7-ObjectInitializer\bin\Debug\7-ObjectInitializer.pdb
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\7-ObjectInitializer\obj\Debug\7-ObjectInitializer.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\7-ObjectInitializer\obj\Debug\7-ObjectInitializer.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\7-ObjectInitializer\obj\Debug\7-ObjectInitializer.pdb

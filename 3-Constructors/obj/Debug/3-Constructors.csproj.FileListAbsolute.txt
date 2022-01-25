@@ -1,0 +1,7 @@
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\3-Constructors\bin\Debug\3-Constructors.exe.config
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\3-Constructors\bin\Debug\3-Constructors.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\3-Constructors\bin\Debug\3-Constructors.pdb
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\3-Constructors\obj\Debug\3-Constructors.csproj.AssemblyReference.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\3-Constructors\obj\Debug\3-Constructors.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\3-Constructors\obj\Debug\3-Constructors.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\3-Constructors\obj\Debug\3-Constructors.pdb

@@ -1,0 +1,7 @@
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\2-StructAndClass\bin\Debug\2-StructAndClass.exe.config
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\2-StructAndClass\bin\Debug\2-StructAndClass.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\2-StructAndClass\bin\Debug\2-StructAndClass.pdb
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\2-StructAndClass\obj\Debug\2-StructAndClass.csproj.AssemblyReference.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\2-StructAndClass\obj\Debug\2-StructAndClass.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\2-StructAndClass\obj\Debug\2-StructAndClass.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\2-StructAndClass\obj\Debug\2-StructAndClass.pdb

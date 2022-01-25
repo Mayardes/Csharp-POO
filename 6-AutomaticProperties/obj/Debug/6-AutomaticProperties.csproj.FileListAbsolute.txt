@@ -1,0 +1,6 @@
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\6-AutomaticProperties\bin\Debug\6-AutomaticProperties.exe.config
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\6-AutomaticProperties\bin\Debug\6-AutomaticProperties.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\6-AutomaticProperties\bin\Debug\6-AutomaticProperties.pdb
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\6-AutomaticProperties\obj\Debug\6-AutomaticProperties.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\6-AutomaticProperties\obj\Debug\6-AutomaticProperties.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\6-AutomaticProperties\obj\Debug\6-AutomaticProperties.pdb

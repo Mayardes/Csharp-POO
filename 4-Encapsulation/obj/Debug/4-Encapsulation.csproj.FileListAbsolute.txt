@@ -1,0 +1,6 @@
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\4-Properties\bin\Debug\4-Properties.exe.config
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\4-Properties\bin\Debug\4-Properties.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\4-Properties\bin\Debug\4-Properties.pdb
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\4-Properties\obj\Debug\4-Encapsulation.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\4-Properties\obj\Debug\4-Properties.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\4-Properties\obj\Debug\4-Properties.pdb
