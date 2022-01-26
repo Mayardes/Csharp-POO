@@ -1,0 +1,7 @@
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\9-StaticClass\bin\Debug\9-StaticClass.exe.config
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\9-StaticClass\bin\Debug\9-StaticClass.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\9-StaticClass\bin\Debug\9-StaticClass.pdb
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\9-StaticClass\obj\Debug\9-StaticClass.csproj.AssemblyReference.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\9-StaticClass\obj\Debug\9-StaticClass.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\9-StaticClass\obj\Debug\9-StaticClass.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\9-StaticClass\obj\Debug\9-StaticClass.pdb

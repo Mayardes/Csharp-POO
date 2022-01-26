@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-ObjectInitializer", "7-Ob
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-InferenceTypes", "8-InferenceTypes\8-InferenceTypes.csproj", "{B53392A5-DC5B-42A8-B79A-2F82FFF35EF1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-Encapsulation", "4-Encapsulation\4-Encapsulation.csproj", "{80BBC71F-01C2-4DE1-B5C5-E5005B438DFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-StaticClass", "9-StaticClass\9-StaticClass.csproj", "{9AC7AE72-672E-4CC5-BB91-6B4A80FB6573}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{B53392A5-DC5B-42A8-B79A-2F82FFF35EF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B53392A5-DC5B-42A8-B79A-2F82FFF35EF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B53392A5-DC5B-42A8-B79A-2F82FFF35EF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80BBC71F-01C2-4DE1-B5C5-E5005B438DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80BBC71F-01C2-4DE1-B5C5-E5005B438DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80BBC71F-01C2-4DE1-B5C5-E5005B438DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80BBC71F-01C2-4DE1-B5C5-E5005B438DFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AC7AE72-672E-4CC5-BB91-6B4A80FB6573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AC7AE72-672E-4CC5-BB91-6B4A80FB6573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AC7AE72-672E-4CC5-BB91-6B4A80FB6573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AC7AE72-672E-4CC5-BB91-6B4A80FB6573}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
