@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-StaticClass", "9-StaticCl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-ExtensionMethods", "10-ExtensionMethods\10-ExtensionMethods.csproj", "{4490C71A-6A95-48F0-8C26-19146D673ABC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-PartialClass", "11-PartialClass\11-PartialClass.csproj", "{46B9327B-EF60-4D5E-8581-87B7C532C545}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{4490C71A-6A95-48F0-8C26-19146D673ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4490C71A-6A95-48F0-8C26-19146D673ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4490C71A-6A95-48F0-8C26-19146D673ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46B9327B-EF60-4D5E-8581-87B7C532C545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46B9327B-EF60-4D5E-8581-87B7C532C545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46B9327B-EF60-4D5E-8581-87B7C532C545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46B9327B-EF60-4D5E-8581-87B7C532C545}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

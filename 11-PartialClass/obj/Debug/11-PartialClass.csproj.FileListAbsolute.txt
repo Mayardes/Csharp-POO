@@ -1,0 +1,6 @@
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\11-PartialClass\bin\Debug\11-PartialClass.exe.config
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\11-PartialClass\bin\Debug\11-PartialClass.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\11-PartialClass\bin\Debug\11-PartialClass.pdb
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\11-PartialClass\obj\Debug\11-PartialClass.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\11-PartialClass\obj\Debug\11-PartialClass.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\11-PartialClass\obj\Debug\11-PartialClass.pdb
