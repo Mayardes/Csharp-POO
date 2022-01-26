@@ -1,0 +1,7 @@
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\10-ExtensionMethods\bin\Debug\10-ExtensionMethods.exe.config
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\10-ExtensionMethods\bin\Debug\10-ExtensionMethods.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\10-ExtensionMethods\bin\Debug\10-ExtensionMethods.pdb
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\10-ExtensionMethods\obj\Debug\10-ExtensionMethods.csproj.AssemblyReference.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\10-ExtensionMethods\obj\Debug\10-ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\10-ExtensionMethods\obj\Debug\10-ExtensionMethods.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\10-ExtensionMethods\obj\Debug\10-ExtensionMethods.pdb

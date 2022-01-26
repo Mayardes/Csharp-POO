@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-Encapsulation", "4-Encaps
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-StaticClass", "9-StaticClass\9-StaticClass.csproj", "{9AC7AE72-672E-4CC5-BB91-6B4A80FB6573}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-ExtensionMethods", "10-ExtensionMethods\10-ExtensionMethods.csproj", "{4490C71A-6A95-48F0-8C26-19146D673ABC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{9AC7AE72-672E-4CC5-BB91-6B4A80FB6573}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AC7AE72-672E-4CC5-BB91-6B4A80FB6573}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9AC7AE72-672E-4CC5-BB91-6B4A80FB6573}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4490C71A-6A95-48F0-8C26-19146D673ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4490C71A-6A95-48F0-8C26-19146D673ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4490C71A-6A95-48F0-8C26-19146D673ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4490C71A-6A95-48F0-8C26-19146D673ABC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
