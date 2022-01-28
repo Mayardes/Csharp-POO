@@ -1,0 +1,7 @@
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\13-NamedParemeter\bin\Debug\13-NamedParemeter.exe.config
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\13-NamedParemeter\bin\Debug\13-NamedParemeter.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\13-NamedParemeter\bin\Debug\13-NamedParemeter.pdb
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\13-NamedParemeter\obj\Debug\13-NamedParemeter.csproj.AssemblyReference.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\13-NamedParemeter\obj\Debug\13-NamedParemeter.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\13-NamedParemeter\obj\Debug\13-NamedParemeter.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\13-NamedParemeter\obj\Debug\13-NamedParemeter.pdb
