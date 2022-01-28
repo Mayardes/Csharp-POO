@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-NamedParemeter", "13-Nam
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-OptionalParameter", "14-OptionalParameter\14-OptionalParameter.csproj", "{D852ADC8-D219-4C87-BAB1-37A66188120F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-OverloadsMethods", "15-OverloadsMethods\15-OverloadsMethods.csproj", "{A87C76AC-F754-4ABD-9593-E949E71879D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{D852ADC8-D219-4C87-BAB1-37A66188120F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D852ADC8-D219-4C87-BAB1-37A66188120F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D852ADC8-D219-4C87-BAB1-37A66188120F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A87C76AC-F754-4ABD-9593-E949E71879D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A87C76AC-F754-4ABD-9593-E949E71879D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A87C76AC-F754-4ABD-9593-E949E71879D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A87C76AC-F754-4ABD-9593-E949E71879D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

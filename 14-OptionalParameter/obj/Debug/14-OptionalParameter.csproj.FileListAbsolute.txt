@@ -1,0 +1,6 @@
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\14-OptionalParameter\bin\Debug\14-OptionalParameter.exe.config
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\14-OptionalParameter\bin\Debug\14-OptionalParameter.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\14-OptionalParameter\bin\Debug\14-OptionalParameter.pdb
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\14-OptionalParameter\obj\Debug\14-OptionalParameter.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\14-OptionalParameter\obj\Debug\14-OptionalParameter.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\14-OptionalParameter\obj\Debug\14-OptionalParameter.pdb
