@@ -1,0 +1,7 @@
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\16-IndexProperties\bin\Debug\16-IndexProperties.exe.config
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\16-IndexProperties\bin\Debug\16-IndexProperties.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\16-IndexProperties\bin\Debug\16-IndexProperties.pdb
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\16-IndexProperties\obj\Debug\16-IndexProperties.csproj.AssemblyReference.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\16-IndexProperties\obj\Debug\16-IndexProperties.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\16-IndexProperties\obj\Debug\16-IndexProperties.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\16-IndexProperties\obj\Debug\16-IndexProperties.pdb
