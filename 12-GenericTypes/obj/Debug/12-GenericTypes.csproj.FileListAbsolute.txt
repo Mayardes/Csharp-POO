@@ -1,0 +1,7 @@
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\12-GenericTypes\bin\Debug\12-GenericTypes.exe.config
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\12-GenericTypes\bin\Debug\12-GenericTypes.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\12-GenericTypes\bin\Debug\12-GenericTypes.pdb
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\12-GenericTypes\obj\Debug\12-GenericTypes.csproj.AssemblyReference.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\12-GenericTypes\obj\Debug\12-GenericTypes.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\12-GenericTypes\obj\Debug\12-GenericTypes.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\12-GenericTypes\obj\Debug\12-GenericTypes.pdb
