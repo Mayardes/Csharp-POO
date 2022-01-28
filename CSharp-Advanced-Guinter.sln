@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-GenericTypes", "12-Gener
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-NamedParemeter", "13-NamedParemeter\13-NamedParemeter.csproj", "{E458D96C-D912-474F-B83B-528019310B23}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-OptionalParameter", "14-OptionalParameter\14-OptionalParameter.csproj", "{D852ADC8-D219-4C87-BAB1-37A66188120F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{E458D96C-D912-474F-B83B-528019310B23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E458D96C-D912-474F-B83B-528019310B23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E458D96C-D912-474F-B83B-528019310B23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D852ADC8-D219-4C87-BAB1-37A66188120F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D852ADC8-D219-4C87-BAB1-37A66188120F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D852ADC8-D219-4C87-BAB1-37A66188120F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D852ADC8-D219-4C87-BAB1-37A66188120F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
