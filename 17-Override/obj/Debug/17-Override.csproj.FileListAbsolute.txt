@@ -1,0 +1,7 @@
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\17-Override\bin\Debug\17-Override.exe.config
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\17-Override\bin\Debug\17-Override.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\17-Override\bin\Debug\17-Override.pdb
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\17-Override\obj\Debug\17-Override.csproj.AssemblyReference.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\17-Override\obj\Debug\17-Override.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\17-Override\obj\Debug\17-Override.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\17-Override\obj\Debug\17-Override.pdb
