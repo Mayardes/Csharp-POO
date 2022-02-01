@@ -1,0 +1,7 @@
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\20-Delegates\obj\Debug\20-Delegates.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\20-Delegates\bin\Debug\_20_Delegates.exe.config
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\20-Delegates\bin\Debug\_20_Delegates.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\20-Delegates\bin\Debug\_20_Delegates.pdb
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\20-Delegates\obj\Debug\20-Delegates.csproj.AssemblyReference.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\20-Delegates\obj\Debug\_20_Delegates.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\20-Delegates\obj\Debug\_20_Delegates.pdb
