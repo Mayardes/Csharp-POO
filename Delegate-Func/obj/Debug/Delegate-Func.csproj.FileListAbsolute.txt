@@ -1,0 +1,7 @@
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\Delegate-Func\bin\Debug\Delegate-Func.exe.config
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\Delegate-Func\bin\Debug\Delegate-Func.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\Delegate-Func\bin\Debug\Delegate-Func.pdb
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\Delegate-Func\obj\Debug\Delegate-Func.csproj.AssemblyReference.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\Delegate-Func\obj\Debug\Delegate-Func.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\Delegate-Func\obj\Debug\Delegate-Func.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\Delegate-Func\obj\Debug\Delegate-Func.pdb
