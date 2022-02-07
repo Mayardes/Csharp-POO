@@ -1,0 +1,7 @@
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\22-Exception\bin\Debug\22-Exception.exe.config
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\22-Exception\bin\Debug\22-Exception.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\22-Exception\bin\Debug\22-Exception.pdb
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\22-Exception\obj\Debug\22-Exception.csproj.AssemblyReference.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\22-Exception\obj\Debug\22-Exception.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\22-Exception\obj\Debug\22-Exception.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\22-Exception\obj\Debug\22-Exception.pdb
