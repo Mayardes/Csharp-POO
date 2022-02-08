@@ -1,0 +1,10 @@
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\24-CustomExceptions\bin\Debug\24-CustomExceptions.exe.config
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\24-CustomExceptions\bin\Debug\24-CustomExceptions.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\24-CustomExceptions\bin\Debug\24-CustomExceptions.pdb
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\24-CustomExceptions\obj\Debug\24-CustomExceptions.csproj.AssemblyReference.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\24-CustomExceptions\obj\Debug\_24_CustomExceptions.Form1.resources
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\24-CustomExceptions\obj\Debug\_24_CustomExceptions.Properties.Resources.resources
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\24-CustomExceptions\obj\Debug\24-CustomExceptions.csproj.GenerateResource.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\24-CustomExceptions\obj\Debug\24-CustomExceptions.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\24-CustomExceptions\obj\Debug\24-CustomExceptions.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\24-CustomExceptions\obj\Debug\24-CustomExceptions.pdb
