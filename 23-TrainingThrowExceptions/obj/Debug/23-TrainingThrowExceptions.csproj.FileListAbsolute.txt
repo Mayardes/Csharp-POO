@@ -1,0 +1,7 @@
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\23-TrainingThrowExceptions\bin\Debug\23-TrainingThrowExceptions.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\23-TrainingThrowExceptions\bin\Debug\23-TrainingThrowExceptions.exe.config
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\23-TrainingThrowExceptions\obj\Debug\23-TrainingThrowExceptions.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\23-TrainingThrowExceptions\obj\Debug\23-TrainingThrowExceptions.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\23-TrainingThrowExceptions\obj\Debug\23-TrainingThrowExceptions.pdb
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\23-TrainingThrowExceptions\obj\Debug\23-TrainingThrowExceptions.csproj.AssemblyReference.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\23-TrainingThrowExceptions\bin\Debug\23-TrainingThrowExceptions.pdb
