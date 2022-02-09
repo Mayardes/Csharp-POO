@@ -1,0 +1,7 @@
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\26-MultiplesInterfaces\bin\Debug\26-MultiplesInterfaces.exe.config
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\26-MultiplesInterfaces\bin\Debug\26-MultiplesInterfaces.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\26-MultiplesInterfaces\bin\Debug\26-MultiplesInterfaces.pdb
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\26-MultiplesInterfaces\obj\Debug\26-MultiplesInterfaces.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\26-MultiplesInterfaces\obj\Debug\26-MultiplesInterfaces.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\26-MultiplesInterfaces\obj\Debug\26-MultiplesInterfaces.pdb
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\26-MultiplesInterfaces\obj\Debug\26-MultiplesInterfaces.csproj.AssemblyReference.cache
