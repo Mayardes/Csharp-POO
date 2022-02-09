@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23-TrainingThrowExceptions"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24-CustomExceptions", "24-CustomExceptions\24-CustomExceptions.csproj", "{8EC5174D-4240-4920-A6CE-4FC3888DD88F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25-AbstractClassesAndInterfaces", "25-AbstractClassesAndInterfaces\25-AbstractClassesAndInterfaces.csproj", "{CBC325B2-DA3C-4963-9DDA-0B0FC251A087}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{8EC5174D-4240-4920-A6CE-4FC3888DD88F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EC5174D-4240-4920-A6CE-4FC3888DD88F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EC5174D-4240-4920-A6CE-4FC3888DD88F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBC325B2-DA3C-4963-9DDA-0B0FC251A087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBC325B2-DA3C-4963-9DDA-0B0FC251A087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBC325B2-DA3C-4963-9DDA-0B0FC251A087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBC325B2-DA3C-4963-9DDA-0B0FC251A087}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

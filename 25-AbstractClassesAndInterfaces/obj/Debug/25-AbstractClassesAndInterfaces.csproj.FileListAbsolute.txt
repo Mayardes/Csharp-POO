@@ -1,0 +1,7 @@
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\25-AbstractClassesAndInterfaces\bin\Debug\25-AbstractClassesAndInterfaces.exe.config
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\25-AbstractClassesAndInterfaces\bin\Debug\25-AbstractClassesAndInterfaces.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\25-AbstractClassesAndInterfaces\bin\Debug\25-AbstractClassesAndInterfaces.pdb
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\25-AbstractClassesAndInterfaces\obj\Debug\25-AbstractClassesAndInterfaces.csproj.AssemblyReference.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\25-AbstractClassesAndInterfaces\obj\Debug\25-AbstractClassesAndInterfaces.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\25-AbstractClassesAndInterfaces\obj\Debug\25-AbstractClassesAndInterfaces.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\25-AbstractClassesAndInterfaces\obj\Debug\25-AbstractClassesAndInterfaces.pdb
