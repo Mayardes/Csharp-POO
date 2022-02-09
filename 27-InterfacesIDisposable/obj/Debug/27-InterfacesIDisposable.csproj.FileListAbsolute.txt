@@ -1,0 +1,7 @@
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\27-InterfacesIDisposable\bin\Debug\27-InterfacesIDisposable.exe.config
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\27-InterfacesIDisposable\bin\Debug\27-InterfacesIDisposable.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\27-InterfacesIDisposable\bin\Debug\27-InterfacesIDisposable.pdb
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\27-InterfacesIDisposable\obj\Debug\27-InterfacesIDisposable.csproj.AssemblyReference.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\27-InterfacesIDisposable\obj\Debug\27-InterfacesIDisposable.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\27-InterfacesIDisposable\obj\Debug\27-InterfacesIDisposable.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\27-InterfacesIDisposable\obj\Debug\27-InterfacesIDisposable.pdb

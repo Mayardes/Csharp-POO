@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25-AbstractClassesAndInterf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26-MultiplesInterfaces", "26-MultiplesInterfaces\26-MultiplesInterfaces.csproj", "{FF818C64-9D48-4789-ACA3-67377932B76D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27-InterfacesIDisposable", "27-InterfacesIDisposable\27-InterfacesIDisposable.csproj", "{E56DD983-D5FB-4014-B141-FDA94057E407}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{FF818C64-9D48-4789-ACA3-67377932B76D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF818C64-9D48-4789-ACA3-67377932B76D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF818C64-9D48-4789-ACA3-67377932B76D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E56DD983-D5FB-4014-B141-FDA94057E407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E56DD983-D5FB-4014-B141-FDA94057E407}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E56DD983-D5FB-4014-B141-FDA94057E407}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E56DD983-D5FB-4014-B141-FDA94057E407}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
