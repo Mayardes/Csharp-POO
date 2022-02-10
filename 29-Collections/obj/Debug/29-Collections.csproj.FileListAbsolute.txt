@@ -1,0 +1,7 @@
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\29-Collections\bin\Debug\29-Collections.exe.config
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\29-Collections\bin\Debug\29-Collections.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\29-Collections\bin\Debug\29-Collections.pdb
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\29-Collections\obj\Debug\29-Collections.csproj.AssemblyReference.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\29-Collections\obj\Debug\29-Collections.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\29-Collections\obj\Debug\29-Collections.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\29-Collections\obj\Debug\29-Collections.pdb
