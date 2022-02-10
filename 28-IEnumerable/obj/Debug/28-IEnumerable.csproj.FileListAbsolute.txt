@@ -1,0 +1,7 @@
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\28-IEnumerable\bin\Debug\28-IEnumerable.exe.config
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\28-IEnumerable\bin\Debug\28-IEnumerable.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\28-IEnumerable\bin\Debug\28-IEnumerable.pdb
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\28-IEnumerable\obj\Debug\28-IEnumerable.csproj.AssemblyReference.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\28-IEnumerable\obj\Debug\28-IEnumerable.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\28-IEnumerable\obj\Debug\28-IEnumerable.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\28-IEnumerable\obj\Debug\28-IEnumerable.pdb
