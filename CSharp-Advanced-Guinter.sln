@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28-IEnumerable", "28-IEnume
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29-Collections", "29-Collections\29-Collections.csproj", "{9071D99F-5E98-4D35-93BC-A0099BB4E4A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30-Hashtable", "30-Hashtable\30-Hashtable.csproj", "{C64C124A-267B-4C6D-8DC6-1FA8909B8D4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{9071D99F-5E98-4D35-93BC-A0099BB4E4A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9071D99F-5E98-4D35-93BC-A0099BB4E4A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9071D99F-5E98-4D35-93BC-A0099BB4E4A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C64C124A-267B-4C6D-8DC6-1FA8909B8D4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C64C124A-267B-4C6D-8DC6-1FA8909B8D4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C64C124A-267B-4C6D-8DC6-1FA8909B8D4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C64C124A-267B-4C6D-8DC6-1FA8909B8D4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,7 @@
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\30-Hashtable\bin\Debug\30-Hashtable.exe.config
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\30-Hashtable\bin\Debug\30-Hashtable.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\30-Hashtable\bin\Debug\30-Hashtable.pdb
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\30-Hashtable\obj\Debug\30-Hashtable.csproj.AssemblyReference.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\30-Hashtable\obj\Debug\30-Hashtable.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\30-Hashtable\obj\Debug\30-Hashtable.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\30-Hashtable\obj\Debug\30-Hashtable.pdb
