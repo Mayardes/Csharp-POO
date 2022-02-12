@@ -1,0 +1,7 @@
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\31-Dictonary\bin\Debug\31-Dictonary.exe.config
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\31-Dictonary\bin\Debug\31-Dictonary.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\31-Dictonary\bin\Debug\31-Dictonary.pdb
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\31-Dictonary\obj\Debug\31-Dictonary.csproj.AssemblyReference.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\31-Dictonary\obj\Debug\31-Dictonary.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\31-Dictonary\obj\Debug\31-Dictonary.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\31-Dictonary\obj\Debug\31-Dictonary.pdb
