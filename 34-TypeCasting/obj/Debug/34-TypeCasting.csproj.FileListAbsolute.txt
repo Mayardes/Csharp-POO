@@ -1,0 +1,7 @@
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\34-TypeCasting\bin\Debug\34-TypeCasting.exe.config
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\34-TypeCasting\bin\Debug\34-TypeCasting.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\34-TypeCasting\bin\Debug\34-TypeCasting.pdb
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\34-TypeCasting\obj\Debug\34-TypeCasting.csproj.AssemblyReference.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\34-TypeCasting\obj\Debug\34-TypeCasting.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\34-TypeCasting\obj\Debug\34-TypeCasting.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\34-TypeCasting\obj\Debug\34-TypeCasting.pdb
