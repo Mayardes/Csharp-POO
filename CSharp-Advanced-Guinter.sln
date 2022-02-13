@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30-Hashtable", "30-Hashtabl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31-Dictonary", "31-Dictonary\31-Dictonary.csproj", "{6CA2998F-E3DB-47C1-BDA9-ADB7D8ADEFBB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32-Stack", "32-Stack\32-Stack.csproj", "{80CDBD93-65DA-4541-BAC0-F2CC65B89475}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{6CA2998F-E3DB-47C1-BDA9-ADB7D8ADEFBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CA2998F-E3DB-47C1-BDA9-ADB7D8ADEFBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CA2998F-E3DB-47C1-BDA9-ADB7D8ADEFBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80CDBD93-65DA-4541-BAC0-F2CC65B89475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80CDBD93-65DA-4541-BAC0-F2CC65B89475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80CDBD93-65DA-4541-BAC0-F2CC65B89475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80CDBD93-65DA-4541-BAC0-F2CC65B89475}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

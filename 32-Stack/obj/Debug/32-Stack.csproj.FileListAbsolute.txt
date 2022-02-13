@@ -1,0 +1,7 @@
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\32-Stack\bin\Debug\32-Stack.exe.config
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\32-Stack\bin\Debug\32-Stack.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\32-Stack\bin\Debug\32-Stack.pdb
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\32-Stack\obj\Debug\32-Stack.csproj.AssemblyReference.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\32-Stack\obj\Debug\32-Stack.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\32-Stack\obj\Debug\32-Stack.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\32-Stack\obj\Debug\32-Stack.pdb
