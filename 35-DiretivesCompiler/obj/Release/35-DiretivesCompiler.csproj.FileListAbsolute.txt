@@ -1,0 +1,6 @@
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\35-DiretivesCompiler\bin\Release\35-DiretivesCompiler.exe.config
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\35-DiretivesCompiler\bin\Release\35-DiretivesCompiler.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\35-DiretivesCompiler\bin\Release\35-DiretivesCompiler.pdb
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\35-DiretivesCompiler\obj\Release\35-DiretivesCompiler.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\35-DiretivesCompiler\obj\Release\35-DiretivesCompiler.exe
+C:\Projetos\Pessoais\Csharp-Advanced\CSharp-Advanced-Guinter\35-DiretivesCompiler\obj\Release\35-DiretivesCompiler.pdb
