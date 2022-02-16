@@ -1,0 +1,7 @@
+C:\Projetos\Pessoais\Csharp-POO\38-Linq\bin\Release\38-Linq.exe.config
+C:\Projetos\Pessoais\Csharp-POO\38-Linq\bin\Release\38-Linq.exe
+C:\Projetos\Pessoais\Csharp-POO\38-Linq\bin\Release\38-Linq.pdb
+C:\Projetos\Pessoais\Csharp-POO\38-Linq\obj\Release\38-Linq.csproj.AssemblyReference.cache
+C:\Projetos\Pessoais\Csharp-POO\38-Linq\obj\Release\38-Linq.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\Csharp-POO\38-Linq\obj\Release\38-Linq.exe
+C:\Projetos\Pessoais\Csharp-POO\38-Linq\obj\Release\38-Linq.pdb
