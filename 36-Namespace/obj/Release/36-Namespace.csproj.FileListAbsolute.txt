@@ -1,0 +1,7 @@
+C:\Projetos\Pessoais\Csharp-POO\36-Namespace\bin\Release\36-Namespace.exe.config
+C:\Projetos\Pessoais\Csharp-POO\36-Namespace\bin\Release\36-Namespace.exe
+C:\Projetos\Pessoais\Csharp-POO\36-Namespace\bin\Release\36-Namespace.pdb
+C:\Projetos\Pessoais\Csharp-POO\36-Namespace\obj\Release\36-Namespace.csproj.AssemblyReference.cache
+C:\Projetos\Pessoais\Csharp-POO\36-Namespace\obj\Release\36-Namespace.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\Csharp-POO\36-Namespace\obj\Release\36-Namespace.exe
+C:\Projetos\Pessoais\Csharp-POO\36-Namespace\obj\Release\36-Namespace.pdb
