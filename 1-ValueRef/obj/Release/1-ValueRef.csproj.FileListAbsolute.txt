@@ -1,0 +1,7 @@
+C:\Projetos\Pessoais\Csharp-POO\1-ValueRef\bin\Release\1-ValueRef.exe.config
+C:\Projetos\Pessoais\Csharp-POO\1-ValueRef\bin\Release\1-ValueRef.exe
+C:\Projetos\Pessoais\Csharp-POO\1-ValueRef\bin\Release\1-ValueRef.pdb
+C:\Projetos\Pessoais\Csharp-POO\1-ValueRef\obj\Release\1-ValueRef.csproj.AssemblyReference.cache
+C:\Projetos\Pessoais\Csharp-POO\1-ValueRef\obj\Release\1-ValueRef.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\Csharp-POO\1-ValueRef\obj\Release\1-ValueRef.exe
+C:\Projetos\Pessoais\Csharp-POO\1-ValueRef\obj\Release\1-ValueRef.pdb
